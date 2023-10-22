@@ -24,6 +24,7 @@ namespace Lab6
             Coyote coyote = new Coyote(59, 4, 9, "SnabbaSune", "prärievarg", "kaninsoppa", "gråish", "lilla", "Eeeehhhahaha");
             coyote.DailyActivities();
 
+            
         }   
     }
 }
